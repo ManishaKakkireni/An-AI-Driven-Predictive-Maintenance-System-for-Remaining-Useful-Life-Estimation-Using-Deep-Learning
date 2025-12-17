@@ -1,9 +1,8 @@
 Project/data/
-Project/data/raw/
 Project/venv/
 *.csv
-*.pkl
 *.npy
+*.pkl
 *.h5
 *.zip
 .env
