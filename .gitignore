@@ -1,10 +1,8 @@
-venv/
-__pycache__/
-*.pyc
-*.pkl
-*.h5
-*.npy
+Project/data/
+Project/venv/
 *.csv
+*.pkl
+*.npy
+*.h5
 *.zip
 .env
-Code/Dataset/
